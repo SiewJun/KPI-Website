@@ -46,7 +46,7 @@ This website is designed to track Key Performance Indicators (KPIs) for Universi
    - Access the website in your browser (e.g., http://localhost/KPI System).
 
 ## Demo Video
-[Watch the video](https://youtu.be/4UO9Mv87_5g)
+[![Demo Video](https://img.youtube.com/vi/4UO9Mv87_5g/0.jpg)](https://youtu.be/4UO9Mv87_5g)
 
 ## Contact
 For any inquiries or support, please contact:
