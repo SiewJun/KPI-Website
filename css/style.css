@@ -1,0 +1,96 @@
+body, footer {
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+.body-style {
+  background: linear-gradient(90deg, rgba(52, 152, 219, 0.5), rgba(233, 30, 99, 0.5));
+  padding: 3rem 0rem;
+}
+
+#copyright {
+  padding: 3rem 3.5rem;
+  color: white;
+  background-color: rgb(37, 37, 37);
+}
+
+.navbar-brand {
+  margin: 0px 30px;
+  font-weight: 600;
+} 
+
+.nav-item{
+  margin: 0px 40px;
+  font-weight: 400;
+}
+
+.nav-link:hover, .navbar-brand:hover {
+  color: #4681f4 !important;
+}
+
+.btn.logout-btn:hover {
+  background-color: #4681f4; 
+  color: black;
+}
+
+.details-card {
+  color: #4681f4 !important;
+  background-color: whitesmoke !important;
+  padding: 8% 3% 3% 3%;
+}
+
+.table-container{
+  padding: 0% 3.5%;
+  
+}
+.image-card-shadow {
+  box-shadow: 0 1px 2px; 
+  transition: box-shadow 0.3s ease-in-out; 
+}
+
+.details-card-body {
+  padding: 5% !important;
+}
+
+.breadcrumb {
+  --bs-breadcrumb-margin-bottom: 0rem !important;
+}
+
+.breadcrumb-details {
+  padding: 3rem 0rem 0rem 4.2rem;
+}
+
+.login-background {
+  background: linear-gradient(90deg, rgba(52, 152, 219, 0.5), rgba(233, 30, 99, 0.5));
+}
+
+.details-form {
+  border-radius: 20px;
+  margin: 80px 0 80px 0 !important;
+  width: 24% !important;
+  background-color: white !important;
+  padding: 50px;
+}
+
+.btn-primary{
+  border: none;
+  border-radius: none;
+  background: linear-gradient(90deg, rgba(52, 152, 219, 0.8), rgba(233, 30, 99, 0.8));
+}
+
+@media (max-width: 767px) {
+  #profileImage {
+    width: 50%; /* Adjust the width for smaller screens */
+  }
+}
+
+@media (min-width: 768px) {
+  .card {
+    padding-top: 3%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .details-form {
+      width: 100% !important;
+  }
+}
