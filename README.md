@@ -23,26 +23,29 @@ This website is designed to track Key Performance Indicators (KPIs) for Universi
    ```bash
    git clone <repository_url>
    
-2. **Database Setup**:
-   - Create a MySQL database for the project as I do not provide it in this repository 
-   
-3. **Configuration**:
-   - Update the database connection settings in `config.php` to match your database credentials.
-   
-4. **Run the Website**:
-   - Start a local server (e.g., Apache) to run the website locally.
-   - Access the website in your browser (e.g., http://localhost/kpi-system).
+2. **Import the Database Dump**:
+   - Open phpMyAdmin.
+   - Create a new database named `project1`.
+   - Click on the newly created database in the left sidebar.
+   - Click on the "Import" tab from the top menu.
+   - Choose the SQL file (`project1.sql`) from the `database` folder in this repository.
+   - Click the "Go" button to import the database structure and data.
 
-## Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature-name`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Create a new Pull Request.
+3. **Configure Database Connection**:
+   - Open `config.php` in a text editor.
+   - Replace the placeholder values with your actual database credentials.
+
+4. **Run the Application**:
+   - Start your local server (e.g., XAMPP).
+   - Navigate to the project directory in your web browser.
+   - Access the website in your browser (e.g., http://localhost/KPI System).
+   - You should now be able to run the application with the imported database.
+   
+6. **Run the Website**:
+   - Start a local server (e.g., Apache) to run the website locally.
+   - Access the website in your browser (e.g., http://localhost/KPI System).
 
 ## Contact
 For any inquiries or support, please contact:
 Siew Khai Jun
-
 Email: siewkhaijun57@gmail.com
