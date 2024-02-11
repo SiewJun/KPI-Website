@@ -6,7 +6,7 @@ This website is designed to track Key Performance Indicators (KPIs) for Universi
 ## Features
 - **User Authentication**: Secure login and registration system for users.
 - **Dashboard**: Provides an overview of key metrics and performance indicators.
-- **Data Visualization**: Visual representation of KPIs through charts and graphs.
+- **Data Visualization**: Visual representation of KPIs through tables.
 - **Data Management**: CRUD (Create, Read, Update, Delete) operations for managing KPI data.
 - **Customizable**: Easily customizable to adapt to your organization's specific needs.
 
@@ -24,8 +24,7 @@ This website is designed to track Key Performance Indicators (KPIs) for Universi
    git clone <repository_url>
    
 2. **Database Setup**:
-   - Create a MySQL database for the project.
-   - Import the SQL file (database.sql) provided in the project to set up the database schema and initial data.
+   - Create a MySQL database for the project as I do not provide it in this repository 
    
 3. **Configuration**:
    - Update the database connection settings in `config.php` to match your database credentials.
@@ -42,10 +41,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch (`git push origin feature-name`).
 5. Create a new Pull Request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 For any inquiries or support, please contact:
-Your Name
-Email: your_email@example.com
+Siew Khai Jun
+Email: siewkhaijun57@gmail.com
