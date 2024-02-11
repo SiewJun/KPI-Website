@@ -45,6 +45,9 @@ This website is designed to track Key Performance Indicators (KPIs) for Universi
    - Start a local server (e.g., Apache) to run the website locally.
    - Access the website in your browser (e.g., http://localhost/KPI System).
 
+## Demo Video
+[Watch the video](https://youtu.be/4UO9Mv87_5g)
+
 ## Contact
 For any inquiries or support, please contact:
 Siew Khai Jun
