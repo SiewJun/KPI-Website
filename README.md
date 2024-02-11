@@ -1,7 +1,7 @@
 # KPI System Website
 
 ## Welcome to the KPI System Website project!
-This website is designed to track Key Performance Indicators (KPIs) for your organization. It's built using HTML, CSS, Bootstrap, JavaScript, PHP, and SQL.
+This website is designed to track Key Performance Indicators (KPIs) for University Students. It's built using HTML, CSS, Bootstrap, JavaScript, PHP, and SQL.
 
 ## Features
 - **User Authentication**: Secure login and registration system for users.
